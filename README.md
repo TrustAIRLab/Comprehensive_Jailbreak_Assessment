@@ -3,7 +3,7 @@
 [![dataet: released](https://img.shields.io/badge/dataset-released-green.svg)](https://github.com/Junjie-Chu/CJA_Comprehensive_Jailbreak_Assessment/tree/main/forbidden_questions)
 
 This is the **official** public repository of the paper [*Comprehensive Assessment of Jailbreak Attacks Against LLMs*](https://arxiv.org/abs/2402.05668).  
-All the following updates will be released here first in the future.
+*All the following updates will be released here first in the future.*  
 
 ## How to use this repository?
 ### Install and set the ENV
@@ -45,7 +45,7 @@ You may also utilize label.sh to label files in a directory:
 ```
 bash label.sh PATH_TO_RESPONSES_DIRECTORY
 ```
-***The files storing the labels will be save to the same directory where you store the jailbreak responses.*** 
+***The files storing the labels will be saved to the same directory where you store the jailbreak responses.*** 
 
 ### Defense - use our defense scripts to detect the jailbreak prompts (adv prompts).
 1. Switch directory:  
@@ -56,9 +56,9 @@ cd ./scripts_defense
 ```
 bash ./defense_execute.sh DEFENSE_METHOD PATH_TO_YOUR_ADV_PROMPTS_FOLDER
 ```
-Currently there are seven defense methods supported (refer to ./scripts_defense/defense_execute.sh for details).
+Currently, seven defense methods are supported (refer to ./scripts_defense/defense_execute.sh for details).
 
-The adv prompts folder should follow such a stucture:
+The adv prompts folder should follow such a structure:
 ```
 example_adv_prompts
 └─ adv_basic.json
@@ -76,7 +76,7 @@ Refer to folder ./example_adv_prompts for an example.
 Welcome to submit your own evaluation results (steps = 50) of jailbreak attacks to us. 
 The leaderboard is available [here](https://junjie-chu.github.io/Public_Comprehensive_Assessment_Jailbreak/leaderboard).
 
-*Full codes will be released after the papaer is accepted.* 
+*Full codes will be released after the paper is accepted.* 
 
 ## TO DO
 
