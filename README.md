@@ -81,4 +81,5 @@ The leaderboard is available [here](https://junjie-chu.github.io/Public_Comprehe
 ## TO DO
 
 - [ ] Check the env file requirements.txt.
+- [ ] Test the guide in the README.md.
 - [ ] Clean the codes/comments.
