@@ -1,6 +1,6 @@
 # Comprehensive Assessment of Jailbreak Attacks
 [![website: online](https://img.shields.io/badge/website-online-blue.svg)](https://junjie-chu.github.io/Public_Comprehensive_Assessment_Jailbreak/)
-[![dataset: released](https://img.shields.io/badge/dataset-released-green.svg)](https://github.com/Junjie-Chu/CJA_Comprehensive_Jailbreak_Assessment/tree/main/forbidden_questions)
+[![dataset: released](https://img.shields.io/badge/dataset-released-green.svg)](https://github.com/TrustAIRLab/Comprehensive_Jailbreak_Assessment/tree/main/forbidden_questions)
 
 This is the **official** public repository of the paper [*Comprehensive Assessment of Jailbreak Attacks Against LLMs*](https://arxiv.org/abs/2402.05668).  
 *All the following updates will be released here first in the future.*  
