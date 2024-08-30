@@ -107,6 +107,8 @@ elif raw_questions_extension == '.csv':
 # Set the output file path
 output_path, output_path_final = change_extension(results_path)
 
+# Support Model
+# gpt-4o's formatting output capability is weak, not recommended.
 model_dict = {"gpt-4": "gpt-4",
               "gpt-3.5-turbo": "gpt-3.5-turbo",
               "gpt-4-turbo": "gpt-4-turbo",
