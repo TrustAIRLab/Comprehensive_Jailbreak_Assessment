@@ -63,7 +63,7 @@ Currently, seven defense methods are supported (refer to ./scripts_defense/defen
 
 The adv prompts folder should follow such a structure:
 ```
-example_adv_prompts
+examples_jailbreak_prompts
 └─ adv_basic.json
 ```
 The ```.json``` file could be obtained by the following codes:
