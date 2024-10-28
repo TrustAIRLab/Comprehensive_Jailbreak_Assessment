@@ -3,6 +3,7 @@
 ## Settings
 We aim to provide a UNIFIED assessment, thus we hope you could use the same dataset/optimization steps/evaluation method.  
 The number of optimization steps MUST be set to 50 or 500 (refer to our paper for the description).  
+For example, if your method is similar to GCG, you can use 500. Or if your method is like PAIR, you can use 50.  
 For the dataset/evaluation method, you could use your own. We will add notes to show your settings.  
 
 ## Data details 
