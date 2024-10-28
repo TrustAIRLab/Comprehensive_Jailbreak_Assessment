@@ -76,8 +76,9 @@ with open(json_file, 'w') as outfile:
 Refer to folder ./example_adv_prompts for an example.  
 
 ## Add new results to the leaderboard.
-Welcome to submit your own evaluation results (steps = 50) of jailbreak attacks to us. 
-The leaderboard is available [here](https://junjie-chu.github.io/Public_Comprehensive_Assessment_Jailbreak/leaderboard).
+Welcome to submit your own evaluation results (steps = 50) of jailbreak attacks to us.  
+The submission instruction is available [here](https://github.com/TrustAIRLab/Comprehensive_Jailbreak_Assessment/edit/main/leaderboard_data/How_to_Submit.md).  
+The leaderboard is available [here](https://junjie-chu.github.io/Public_Comprehensive_Assessment_Jailbreak/leaderboard).  
 
 *Full codes will be released after the paper is accepted.* 
 
