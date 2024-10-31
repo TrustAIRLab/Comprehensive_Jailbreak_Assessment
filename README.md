@@ -1,4 +1,5 @@
 # Comprehensive Assessment of Jailbreak Attacks
+[![arXiv: available](https://img.shields.io/badge/arXiv-available-red.svg)](https://arxiv.org/abs/2308.03825)
 [![website: online](https://img.shields.io/badge/website-online-blue.svg)](https://junjie-chu.github.io/Public_Comprehensive_Assessment_Jailbreak/)
 [![dataset: released](https://img.shields.io/badge/dataset-released-green.svg)](https://github.com/TrustAIRLab/Comprehensive_Jailbreak_Assessment/tree/main/forbidden_questions)
 
