@@ -7,7 +7,7 @@ If you find them useful, please consider cite the following:
 
 ```
 @misc{chu2024comprehensive,
-      title={Comprehensive Assessment of Jailbreak Attacks Against LLMs}, 
+      title={JailbreakRadar: Comprehensive Assessment of Jailbreak Attacks Against LLMs}, 
       author={Junjie Chu and Yugeng Liu and Ziqing Yang and Xinyue Shen and Michael Backes and Yang Zhang},
       year={2024},
       eprint={2402.05668},
